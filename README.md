@@ -34,8 +34,8 @@ Para testar o banco de dados e simular as operações da loja, execute os script
 ## 👥 Integrantes
 
 Trabalho desenvolvido em grupo pelos alunos:
-* **Gabriel Duarte Rizzo do Nascimento** - *Desenvolvimento Banco de Dados* - [Seu GitHub/LinkedIn]
-* **Ângelo Silva dos Santos** - [[Link]](https://github.com/AngeloSilv)
-* **Raphael Bíssimos Costa dos Santos** - [[Link]](https://github.com/HunterBr2099)
+* **Gabriel Duarte Rizzo do Nascimento** - *Desenvolvimento Banco de Dados* - https://github.com/gabrielrizzoo
+* **Ângelo Silva dos Santos** - https://github.com/AngeloSilv
+* **Raphael Bíssimos Costa dos Santos** - https://github.com/HunterBr2099
 * **Felipe Celestrino Monteiro** - [Link]
 * **Mateus Alkmim Santos** - [Link]
